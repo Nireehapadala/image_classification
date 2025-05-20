@@ -26,9 +26,6 @@ Trains and validates the model
 
 Uses ImageDataGenerator for data augmentation
 
-📬 Contact Created by Nireeha Padala 
-📧 [nireehap@gmail.com] 
-🔗 [www.linkedin.com/in/nireeha-padala-6a71ab2a0] | [https://github.com/Nireehapadala]
 Saves the trained model for testing
 
 ✅ image_classification_testing.ipynb
@@ -68,3 +65,6 @@ dataset/
   │   ├── class2/
 You can replace class1, class2, etc., with your actual class names (e.g., cat, dog, etc.).
 
+📬 Contact Created by Nireeha Padala 
+📧 [nireehap@gmail.com] 
+🔗 [www.linkedin.com/in/nireeha-padala-6a71ab2a0] | [https://github.com/Nireehapadala]
